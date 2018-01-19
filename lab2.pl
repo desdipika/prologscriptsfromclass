@@ -1,0 +1,14 @@
+word(a,determiner).
+word(may,auxverb).
+word(may,noun).
+word(beautiful,adjective).
+word(sky,noun).
+word(blue,adjective).
+word(fast,adjective).
+word(james,noun).
+word(run,verb).
+word(run,noun).
+word(that,determiner).
+word(on,preposition).
+word(grass,noun).
+word(the,determiner).

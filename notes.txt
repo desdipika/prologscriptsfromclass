@@ -1,0 +1,4 @@
+#_ is an anonymous variable so everytime you give it as an object in a query, prolog will ignore it.
+# when you get a question, think about whether it's a yes/no question or a answerable question, if it is a yes/no question, you should ask it with a _ so that it will return a truth value as output, if it is an answerable question, you ask it with a variable so it will return an answer. 
+#If you first declared some predicate with two objects, keep it that way, declaring it with >2 objects will return false.
+# How to write rules :
